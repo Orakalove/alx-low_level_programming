@@ -52,7 +52,7 @@ int _atoi(char *s)
  * @argc: The number of arguments
  * @argv: The array of arguments
  *
- * Return: 0 (Successful), 1 (Error)
+ * Return: 0 (Success), 1 (Error)
  */
 int main(int argc, char *argv[])
 {
